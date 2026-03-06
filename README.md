@@ -1,26 +1,33 @@
-Affirmations App - Intermediate Code
-================================
+📱 Affirmations App
 
-Intermediate code for the Android Basics with Compose: Affirmations app.
+A simple Android app built using Kotlin and Jetpack Compose that displays a scrollable list of positive affirmations with images. The app demonstrates the use of LazyColumn, composables, and data models in modern Android development.
 
+🚀 Features
 
-Introduction
-------------
-The Affirmations app contains a scrollable list of 10 cards.
+📜 Scrollable list of affirmations
 
+🖼️ Image + text display for each item
 
-Pre-requisites
---------------
-* Familiarity with Lists in Kotlin
-* Experience building layouts with Jetpack Compose
-* Experience running apps on a device or emulator
+⚡ Built using Jetpack Compose
 
+🧱 Clean architecture with data models and datasource
 
-Getting Started
----------------
-1. Install Android Studio, if you don't already have it.
-2. Download the sample.
-3. Import the sample into Android Studio.
-4. Build and run the sample.
+📱 Responsive UI design
 
-All photos by Romain Guy. All photos are licensed under CC0 https://creativecommons.org/share-your-work/public-domain/cc0/
+🛠️ Tech Stack
+
+Language: Kotlin
+
+UI Toolkit: Jetpack Compose
+
+IDE: Android Studio
+
+Architecture: MVVM (basic structure)
+
+Build Tool: Gradle
+
+📸 App Preview:
+
+Image -
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/1e9554cd-2c6e-4ac2-9c5f-0469cd77c541" />
